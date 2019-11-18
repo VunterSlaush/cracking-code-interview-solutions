@@ -1,0 +1,11 @@
+{
+  "name": "cci",
+  "version": "1.0.0",
+  "description": "Cracking Code Interview Problems Solved by VunterSlaush",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Mota",
+  "license": "ISC"
+}
